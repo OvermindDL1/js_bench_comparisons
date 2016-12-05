@@ -1,0 +1,4 @@
+/node_modules/*/*
+!/node_modules/benchmark/benchmark.js
+!/node_modules/lodash/lodash.min.js
+!/node_modules/platform/platform.js
